@@ -7,16 +7,18 @@ The dataset is organized into 3 folders (train, test, val) and contains subfolde
 
 # Steps followed for the Python script to make the project.
 
-1). Step I  : Data collection
-2). Step II : Data Exploration
-3). Step III: Image Preprocessing
-4). Step IV : Data Modelling
+1. Step I  : Data collection
+2. Step II : Data Exploration
+3. Step III: Image Preprocessing
+4. Step IV : Data Modelling
 
 # Deep Learning Models
-Here are the different deep-learning models 
+Here are the different deep-learning models with test accuracy
 
-1. Convolutional Neural Network (CNN)
-2. Convolutional Neural Network (CNN) with ImageDataGenerator
-3. Convolutional Neural Network (CNN) with VGG16
+1. Convolutional Neural Network (CNN): Test Accuracy: 0.7596
+2. Convolutional Neural Network (CNN) with ImageDataGenerator: Test Accuracy: 0.6795
+3. Convolutional Neural Network (CNN) with VGG16: Test Accuracy: 0.8990
+
+
 
 
