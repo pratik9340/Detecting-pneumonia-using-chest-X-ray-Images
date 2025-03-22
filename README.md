@@ -14,10 +14,18 @@ The dataset is organized into 3 folders (train, test, val) and contains subfolde
 
 # Deep Learning Models
 Here are the different deep-learning models with test accuracy
-
 1. Convolutional Neural Network (CNN): Test Accuracy: 0.7596
+The model is built using an image of size 150x150 pixels in grayscale without data/image augmentation or an image data generator.
+The CNN model architecture is summaries as follows:
+
 2. Convolutional Neural Network (CNN) with ImageDataGenerator: Test Accuracy: 0.6795
+The model is built using an image of size 150x150 pixels in grayscale with data/image augmentation or image data generator in the train, test, and validation dataset.
+The CNN model architecture is summaries as follows:
+
 3. Convolutional Neural Network (CNN) with VGG16: Test Accuracy: 0.8990
+The model is built using an image of size 150x150 pixels in grayscale without data/image augmentation or an image data generator.
+The CNN model architecture is summaries as follows:
+
 
 
 
